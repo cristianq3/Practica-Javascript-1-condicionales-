@@ -1,2 +1,2 @@
 let nombreUsuario=prompt("Ingrese su nombre de usuario");
-document.write("Hola "+ nombreUsuario)
+document.write("Hola "+ nombreUsuario);
