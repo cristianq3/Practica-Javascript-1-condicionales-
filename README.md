@@ -1,4 +1,4 @@
-# Trabajo Práctivo Nº 1 | Javascript
+# Trabajo Práctico Nº 1 | Javascript
 
 ## Práctica mediante ejercicios de:
 
